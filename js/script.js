@@ -1,5 +1,5 @@
 /* JavaScript код */
-'use strict'
+"use strict";
 
 let themesBtn = Array.from(document.querySelectorAll(".theme-button"));
 let fontsBtn = Array.from(document.querySelectorAll(".font-button"));
